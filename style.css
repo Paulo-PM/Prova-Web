@@ -1,0 +1,37 @@
+.logo
+{
+	width: 120px;
+	height: 80px;
+}
+
+#institucional
+{
+	text-align: left;
+	background-color: #28a745;
+	padding-top: 50px;
+	padding-bottom: 70px;
+	color:#000000;
+
+}
+		
+#institucional h2
+{
+	color: #000000; 
+	text-align: center;
+}
+
+.titulo{text-align: center;}
+
+#formulario
+{
+
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+#map
+{
+
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
